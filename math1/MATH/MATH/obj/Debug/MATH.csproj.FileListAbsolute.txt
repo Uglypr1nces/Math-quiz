@@ -1,0 +1,10 @@
+C:\Users\aqua\source\repos\MATH\MATH\bin\Debug\MATH.exe.config
+C:\Users\aqua\source\repos\MATH\MATH\bin\Debug\MATH.exe
+C:\Users\aqua\source\repos\MATH\MATH\bin\Debug\MATH.pdb
+C:\Users\aqua\source\repos\MATH\MATH\obj\Debug\MATH.csproj.AssemblyReference.cache
+C:\Users\aqua\source\repos\MATH\MATH\obj\Debug\MATH.Form1.resources
+C:\Users\aqua\source\repos\MATH\MATH\obj\Debug\MATH.Properties.Resources.resources
+C:\Users\aqua\source\repos\MATH\MATH\obj\Debug\MATH.csproj.GenerateResource.cache
+C:\Users\aqua\source\repos\MATH\MATH\obj\Debug\MATH.csproj.CoreCompileInputs.cache
+C:\Users\aqua\source\repos\MATH\MATH\obj\Debug\MATH.exe
+C:\Users\aqua\source\repos\MATH\MATH\obj\Debug\MATH.pdb
